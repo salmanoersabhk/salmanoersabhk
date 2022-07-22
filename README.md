@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salmanoersabhk
+- 👋 Hi, This is Salman Manoe's Account for RSAB Harapan Kita Coding Collaboration
 - 👀 I’m interested in science, computational physics, java programming
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on spring boot web app projects
