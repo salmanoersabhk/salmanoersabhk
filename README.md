@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salmanoersabhk
 - 👀 I’m interested in science, computational physics, java programming
 - 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on java programming
+- 💞️ I’m looking to collaborate on spring boot web app projects
 - 📫 How to reach me is via email to salmanoe.rsabhk@gmail.com
 
 <!---
